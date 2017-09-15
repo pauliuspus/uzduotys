@@ -1,4 +1,4 @@
-public class astuoni {
+public class Astuoni {
     public static void main(String[] args) {
         String txt1 = "";
         String txt2 = "";

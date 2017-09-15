@@ -1,4 +1,4 @@
-public class sesi {
+public class Sesi {
     public static void main(String[] args) {
         int[][] masyvas7 = { {4, 5, 6}};
         int[][] masyvas8 = masyvas7;

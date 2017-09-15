@@ -1,4 +1,4 @@
-public class septyni {
+public class Septyni {
     public static void main(String[] args) {
         int skaicius = 5;
         System.out.println(--skaicius);

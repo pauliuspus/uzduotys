@@ -1,4 +1,4 @@
-public class trys {
+public class Trys {
     public static void main(String[] args) {
         int[][] masyvas3 = {{4,5,6}, {7,9,8}, {8,2,1,4}};
         for (int i = masyvas3.length - 1; i >= 0; i--) {

@@ -1,4 +1,4 @@
-public class devyni {
+public class Devyni {
     public static void main(String[] args) {
         String txt3 = "";
         String txt4 = "abc";

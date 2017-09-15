@@ -1,4 +1,4 @@
-public class keturi {
+public class Keturi {
     public static void main(String[] args) {
         int[][] masyvas4 = {{4,5,6}, {8,2,1,4}};
         for (int i = 0; i < masyvas4.length; i++) {

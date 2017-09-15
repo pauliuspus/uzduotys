@@ -1,4 +1,4 @@
-public class desimt {
+public class Desimt {
     public static void main(String[] args) {
         String txt5 = "antras";
         System.out.println("1:" +  "  test");
